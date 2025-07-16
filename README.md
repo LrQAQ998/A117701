@@ -1,0 +1,2 @@
+# my-novel-storage
+no
